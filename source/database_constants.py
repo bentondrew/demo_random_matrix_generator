@@ -4,5 +4,5 @@
 
 db_user = 'postgres'
 db_password = 'secret_password'
-db_host = 'random_matrix_generation_db'
+db_host = 'random-matrix-generation-db'
 db_port = '5432'
