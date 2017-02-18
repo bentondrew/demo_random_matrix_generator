@@ -1,10 +1,10 @@
 # demo_random_matrix_generator
 Web service to generate a matrix with the provided dimensions filled with random data with values up to the provided maximum value.
 
-To build the docker image drewantech/demo_random_matrix_generator:0.1.2 via ssh:
+To build the docker image drewantech/demo_random_matrix_generator:0.1.3 via ssh:
 
-docker build -t drewantech/demo_random_matrix_generator:0.1.2 git@github.com:Drewan-Tech/demo_random_matrix_generator.git
+docker build -t drewantech/demo_random_matrix_generator:0.1.3 git@github.com:Drewan-Tech/demo_random_matrix_generator.git
 
-To build the docker image drewantech/demo_random_matrix_generator:0.1.2 via https:
+To build the docker image drewantech/demo_random_matrix_generator:0.1.3 via https:
 
-docker build -t drewantech/demo_random_matrix_generator:0.1.2 https://github.com/Drewan-Tech/demo_random_matrix_generator.git
+docker build -t drewantech/demo_random_matrix_generator:0.1.3 https://github.com/Drewan-Tech/demo_random_matrix_generator.git
