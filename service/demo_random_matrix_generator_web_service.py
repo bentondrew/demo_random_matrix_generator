@@ -19,7 +19,7 @@ def index():
 
 
 @app.route('/database_initialization')
-def databases_initialization():
+def database_initialization():
   try:
     from demo_random_matrix_generator.database_initialization \
         import (create_database,
@@ -36,7 +36,7 @@ def databases_initialization():
 
 
 @app.route('/database_tear_down')
-def databases_tear_down():
+def database_tear_down():
   try:
     from demo_random_matrix_generator.database_tear_down \
         import (drop_database,
