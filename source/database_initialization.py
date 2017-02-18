@@ -11,7 +11,7 @@ from demo_random_matrix_generator.database_objects \
             Matrix,
             Dimension,
             Point)
-from demo_random_matrix_generator.databse_constants \
+from demo_random_matrix_generator.database_constants \
     import (db_user, db_password, db_host, db_port)
 
 
